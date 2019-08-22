@@ -1655,8 +1655,8 @@ Maintainer - Haresh Bhankhodiya (l0rd_vader)"</string>
     <string name="smartbar_context_menu_position_summary">Задать положение контекстных кнопок, таких как меню и выбор способа ввода</string>
     <string name="smartbar_context_menu_position_title">Позиция контекстных кнопок</string>
     <string name="smartbar_custom_icon_size_title">Настройка масштабирования значков</string>
-    <string name="smartbar_double_tap_sleep_summary">Double tap on empty navbar areas to sleep</string>
-    <string name="smartbar_double_tap_sleep_title">Double tap to sleep</string>
+    <string name="smartbar_double_tap_sleep_summary">Дабл тап в пустом месте навигационной панели для сна</string>
+    <string name="smartbar_double_tap_sleep_title">Сон дабл тапом</string>
     <string name="smartbar_editor_summary">Недолго удерживайте кнопку панели навигации для изменения ее расположения. Длительно удерживайте кнопку для отображения меню. Положение кнопки может быть изменено во время отображения меню.</string>
     <string name="smartbar_editor_title">Режим редактирования</string>
     <string name="smartbar_factory_reset_confirm">Вы уверены, что вы хотите сбросить SmartBar к настройкам по умолчанию?</string>
@@ -1733,7 +1733,7 @@ Maintainer - Haresh Bhankhodiya (l0rd_vader)"</string>
     <string name="status_imei">IMEI</string>
     <string name="status_imei_sv">IMEI SV</string>
     <string name="statusbar_items_title">Значки строки состояния</string>
-    <string name="statusbar_notch">Notch</string>
+    <string name="statusbar_notch">Метка</string>
     <string name="statusbar_notifications">Уведомления</string>
     <string name="statusbar_show_wifi_activity_summary">Показывать индикаторы когда идёт передача данных по Wi-Fi</string>
     <string name="statusbar_show_wifi_activity_title">Показывать индикаторы данных Wi-Fi</string>
@@ -1752,14 +1752,12 @@ Maintainer - Haresh Bhankhodiya (l0rd_vader)"</string>
     <string name="summary_dashboard_conditions_enabled">Уведомления в меню настроек включены</string>
     <string name="summary_dashboard_suggestions_disabled">Рекомендации в меню настроек выключены</string>
     <string name="summary_dashboard_suggestions_enabled">Рекомендации в меню настроек включены</string>
-    <string name="summary_empty" />
     <string name="summary_font_size">%1$s</string>
     <string name="summary_heads_up_disabled">Выключены</string>
     <string name="summary_heads_up_enabled">Включены</string>
-    <string name="summary_placeholder"> </string>
     <string name="summary_two_lines_placeholder">" 
  "</string>
-    <string name="supplicant_state_label">Supplicant state:</string>
+    <string name="supplicant_state_label">Статус поддержки:</string>
     <string name="suwFontSecondary">google-sans</string>
     <string name="suwFontSecondaryMedium">google-sans-medium</string>
     <string name="swap_navigation_keys_title">Поменять местами кнопки</string>
@@ -1812,7 +1810,7 @@ Maintainer - Haresh Bhankhodiya (l0rd_vader)"</string>
     <string name="tilt_title">Наклон</string>
     <string name="time_in_state_summary">Показывает статистику режимов CPU</string>
     <string name="time_in_state_title">Время состояний CPU</string>
-    <string name="time_zone_auto_stub">Select Time Zone</string>
+    <string name="time_zone_auto_stub">Выберите часовой пояс</string>
     <string name="title_animation_no_override">Запретить переопределения приложений</string>
     <string name="toast">Всплывающие уведомления</string>
     <string name="toast_FastFade_animation">Быстрое затухание</string>
@@ -1854,8 +1852,8 @@ Maintainer - Haresh Bhankhodiya (l0rd_vader)"</string>
     <string name="trigger_top_title">Позиция</string>
     <string name="trigger_width_summary">Настройка ширины</string>
     <string name="trigger_width_title">Ширина</string>
-    <string name="tuner_show_drag_handle_summary">Shows a drag handle at the bottom of QS</string>
-    <string name="tuner_show_drag_handle_title">Drag handle</string>
+    <string name="tuner_show_drag_handle_summary">Показывает регион перетаскивания QS</string>
+    <string name="tuner_show_drag_handle_title">Перетаскивание</string>
     <string name="tuner_show_info_header_category">Показывает информацию сверху панели QS</string>
     <string name="tuner_show_info_header_title">Информация в заголовке</string>
     <string name="tv_app_color">Заливка значка приложения (заполняет весь значок)</string>
@@ -1932,30 +1930,26 @@ Maintainer - Haresh Bhankhodiya (l0rd_vader)"</string>
     <string name="weather_unit_imperial">Градусы Фаренгейта</string>
     <string name="weather_unit_metric">Градусы Цельсия</string>
     <string name="wifi_api_test">Wi-Fi API</string>
-    <string name="wifi_badging_thresholds_default">10:3000,20:5000,30:25000</string>
-    <string name="wifi_calling_roaming_mode_summary">%1$s</string>
-    <string name="wifi_config_info">Wi-Fi config</string>
-    <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
-    <string name="wifi_display_certification_heading">Certification</string>
-    <string name="wifi_display_listen_channel">Listen channel</string>
-    <string name="wifi_display_listen_mode">Enable listen mode</string>
-    <string name="wifi_display_operating_channel">Operating channel</string>
-    <string name="wifi_display_pause">Pause</string>
-    <string name="wifi_display_resume">Resume</string>
-    <string name="wifi_display_session_info">Session info</string>
-    <string name="wifi_display_wps_config">WPS configuration</string>
+    <string name="wifi_config_info">Wi-Fi конфигурация</string>
+    <string name="wifi_display_autonomous_go">Включить автономный GO</string>
+    <string name="wifi_display_certification_heading">Сертифицирование</string>
+    <string name="wifi_display_listen_channel">Слушать канал</string>
+    <string name="wifi_display_listen_mode">Включить прослушивание</string>
+    <string name="wifi_display_operating_channel">Рабочий канал</string>
+    <string name="wifi_display_pause">Пауза</string>
+    <string name="wifi_display_resume">Продолжить</string>
+    <string name="wifi_display_session_info">Информация сессии</string>
+    <string name="wifi_display_wps_config">WPS конфигурация</string>
     <string name="wifi_dns1_hint">1.0.0.1</string>
     <string name="wifi_dns2_hint">1.1.1.1</string>
     <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_ip_address_hint">192.168.1.128</string>
-    <string name="wifi_menu_wps_pbc">WPS Push Button</string>
-    <string name="wifi_menu_wps_pin">WPS Pin Entry</string>
+    <string name="wifi_menu_wps_pbc">WPS Кнопка</string>
+    <string name="wifi_menu_wps_pin">WPS Ввод пин кода</string>
     <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -1964,36 +1958,36 @@ Maintainer - Haresh Bhankhodiya (l0rd_vader)"</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_state_disabled">Disabled</string>
-    <string name="wifi_state_disabling">Disabling</string>
-    <string name="wifi_state_enabled">Enabled</string>
-    <string name="wifi_state_enabling">Enabling</string>
-    <string name="wifi_state_label">Wi-Fi state:</string>
-    <string name="wifi_state_unknown">Unknown</string>
-    <string name="wifi_status_test">Wi-Fi status</string>
-    <string name="wifi_wps_complete">WPS succeeded. Connecting to the network…</string>
-    <string name="wifi_wps_connected">Connected to Wi‑Fi network %s</string>
-    <string name="wifi_wps_failed_auth">Authentication failure. Please try again.</string>
-    <string name="wifi_wps_failed_generic">WPS failed. Please try again in a few minutes.</string>
-    <string name="wifi_wps_failed_overlap">Another WPS session was detected. Please try again in a few minutes.</string>
-    <string name="wifi_wps_failed_tkip">The wireless router security setting (TKIP) is not supported</string>
-    <string name="wifi_wps_failed_wep">The wireless router security setting (WEP) is not supported</string>
-    <string name="wifi_wps_failed_wifi_disconnected">Wi‑Fi disconnected. WPS setup canceled.</string>
-    <string name="wifi_wps_in_progress">WPS is already in progress and can take up to two minutes to complete</string>
-    <string name="wifi_wps_onstart_pbc">Press the Wi‑Fi Protected Setup button on your router. It may be called “WPS” or marked with this symbol:</string>
-    <string name="wifi_wps_onstart_pin">Enter pin %1$s on your Wi‑Fi router. The setup can take up to two minutes to complete.</string>
-    <string name="wifi_wps_setup_msg">Starting WPS…</string>
-    <string name="wifi_wps_setup_title">Wi‑Fi Protected Setup</string>
-    <string name="zen_onboarding_dnd_visual_disturbances_description">"Your phone can do more to help you focus.
+    <string name="wifi_state_disabled">Отключен</string>
+    <string name="wifi_state_disabling">Отключение</string>
+    <string name="wifi_state_enabled">Включен</string>
+    <string name="wifi_state_enabling">Включение</string>
+    <string name="wifi_state_label">Wi-Fi состояние:</string>
+    <string name="wifi_state_unknown">Неизвестно</string>
+    <string name="wifi_status_test">Wi-Fi статус</string>
+    <string name="wifi_wps_complete">WPS успешно пройден. Подключение к сети…</string>
+    <string name="wifi_wps_connected">Подключено к Wi‑Fi сети %s</string>
+    <string name="wifi_wps_failed_auth">Ошибка аутентификации. Пожалуйста повторите.</string>
+    <string name="wifi_wps_failed_generic">Ошибка WPS. Пожалуйста повторите через несколько минут.</string>
+    <string name="wifi_wps_failed_overlap">Другая WPS сессия обнаружена. Пожалуйста повторите через несколько минут.</string>
+    <string name="wifi_wps_failed_tkip">Настройки безопасности роутера (TKIP) не поддерживаются</string>
+    <string name="wifi_wps_failed_wep">Настройки безопасности роутера (WEP) не поддерживаются</string>
+    <string name="wifi_wps_failed_wifi_disconnected">Wi‑Fi отсоединен. WPS настройка отменена.</string>
+    <string name="wifi_wps_in_progress">WPS в процессе настройки и может длится несколько минут</string>
+    <string name="wifi_wps_onstart_pbc">Нажмите WPS кнопку на роутере. Она может называтся “WPS” или обозначена символом:</string>
+    <string name="wifi_wps_onstart_pin">Введите пин %1$s на вашем Wi‑Fi роутере. Настройка может продлится несколько минут.</string>
+    <string name="wifi_wps_setup_msg">Старт WPS…</string>
+    <string name="wifi_wps_setup_title">Wi‑Fi Защищенная настройка</string>
+    <string name="zen_onboarding_dnd_visual_disturbances_description">"Твой телефон может сделать больше чтобы помочь тебе сфокусироватся.
 
-Update settings to:
+Обновление настроек до:
 
-- Hide notifications completely
+- Спрятать уведомления полностью
 
-- Allow calls from starred contacts and repeat callers"</string>
-    <string name="zen_onboarding_more_options">You can further customize this in Settings.</string>
-    <string name="zen_onboarding_screen_off_summary">"Don't turn on the screen or wake for notifications"</string>
-    <string name="zen_onboarding_screen_off_title">Block when the screen is off</string>
-    <string name="zen_onboarding_screen_on_summary">"Don't show notifications at all, except for basic phone activity and status"</string>
-    <string name="zen_onboarding_screen_on_title">Block when the screen is on</string>
+- Разрешать вызовы от избранных контактов"</string>
+    <string name="zen_onboarding_more_options">Вы можете позже изменить это в Настройках.</string>
+    <string name="zen_onboarding_screen_off_summary">"Не включать экран или пробуждать при уведомлениях"</string>
+    <string name="zen_onboarding_screen_off_title">Блокировать с выключенным экраном</string>
+    <string name="zen_onboarding_screen_on_summary">"Не показывать уведомления вообще, за исключением базовой телефонной активности"</string>
+    <string name="zen_onboarding_screen_on_title">Блокировать с включенным экраном</string>
 </resources>
