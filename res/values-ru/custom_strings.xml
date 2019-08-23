@@ -1371,7 +1371,7 @@ Maintainer - Haresh Bhankhodiya (l0rd_vader)"</string>
     <string name="proximity_sensor_title">Датчик приближения</string>
     <string name="proximity_wake_summary">Проверка датчик приближения перед включением экрана</string>
     <string name="proximity_wake_title">Предотвратить случайное пробуждение</string>
-    <string name="pulse_accent_color_summary">Включение использования puls'ом цвет акцента. Это выключит Lava Lamp</string>
+    <string name="pulse_accent_color_summary">Включение использования pulse цвет акцента. Это выключит "Лава Лампу"</string>
     <string name="pulse_accent_color_title">Использовать цвет акцента для pulse</string>
     <string name="pulse_advanced_category">Расширенные настройки</string>
     <string name="pulse_auto_color_summary">Цвет зависит от обложки трека. Переопределяет прозрачность "Лава Лампы" и сплошных линий.</string>
