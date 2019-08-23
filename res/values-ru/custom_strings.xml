@@ -798,7 +798,7 @@ Maintainer - Haresh Bhankhodiya (l0rd_vader)"</string>
     <string name="fast_charging_led_enabled_title">Индикация быстрой зарядки</string>
     <string name="fast_charging_light_color_title">Значок быстрой зарядки</string>
     <string name="fast_color_cat_title">Быстрая зарядка</string>
-    <string name="feature_flags_dashboard_title"Флаги функций</string>
+    <string name="feature_flags_dashboard_title">Флаги функций</string>
     <string name="filter_substratum_apps">Слои Substratum</string>
     <string name="flashlight_on_call_always">Всегда</string>
     <string name="flashlight_on_call_disabled">Отключено</string>
