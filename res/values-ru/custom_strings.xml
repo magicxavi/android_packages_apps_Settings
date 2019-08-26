@@ -1013,7 +1013,7 @@ Maintainer - Haresh Bhankhodiya (l0rd_vader)"</string>
     <string name="incall_vibration_category">Вибрация при вызова</string>
     <string name="increasing_ring_min_volume_title">Начальная громкость</string>
     <string name="increasing_ring_ramp_up_time_title">Время нарастания</string>
-    <string name="increasing_ring_volume_option_title">Увеличение громкости звонка</string>
+    <string name="increasing_ring_volume_option_title">Нарастающая громкость звонка</string>
     <string name="input_method_selector_always_hide_value">2</string>
     <string name="input_method_selector_always_show_value">1</string>
     <string name="input_method_selector_show_automatically_value">0</string>
