@@ -100,7 +100,7 @@
     <string name="add_heads_up_stoplist_summary">Отключить всплывающие уведомления из этих приложений</string>
     <string name="alarm_blocker_reload">Перезагрузить</string>
     <string name="alarm_blocker_save">Сохранить</string>
-    <string name="alarm_blocker_title">Блокировщик будильника</string>
+    <string name="alarm_blocker_title">Блокировщик *alarms*</string>
     <string name="alarm_list_header">Доступные будильники</string>
     <string name="allow_incall_home_summary">Разрешает использовать кнопку Домой во время звонка</string>
     <string name="allow_incall_home_title">Кнопка домой во время звонка</string>
@@ -1150,7 +1150,7 @@ Maintainer - Haresh Bhankhodiya (l0rd_vader)"</string>
     <string name="lockscreen_date_selection_title">Стиль даты</string>
     <string name="lockscreen_hide_shortcuts_summary">Скрыть левый и правый ярлыки на экране блокировки</string>
     <string name="lockscreen_hide_shortcuts_title">Ярлыки</string>
-    <string name="lockscreen_hide_status_bar_summary">Отображать строку состояния на экране блокировки</string>
+    <string name="lockscreen_hide_status_bar_summary">Отключить строку состояния на экране блокировки</string>
     <string name="lockscreen_hide_status_bar_title">Строка состояния</string>
     <string name="lockscreen_info_summary">Отображать дату, погоду, будильники и zen</string>
     <string name="lockscreen_info_title">Виджет информации</string>
@@ -1917,7 +1917,7 @@ Maintainer - Haresh Bhankhodiya (l0rd_vader)"</string>
     <string name="volume_title">Управление громкостью</string>
     <string name="wakelock_blocker_reload">Обновить список</string>
     <string name="wakelock_blocker_save">Сохранить</string>
-    <string name="wakelock_blocker_title">Блокировщик вэйклоков</string>
+    <string name="wakelock_blocker_title">Блокировщик *wakelocks*</string>
     <string name="wakelock_list_header">Доступные вэйклоки</string>
     <string name="wakelock_time">Вэйклоки</string>
     <string name="wakeup_when_plugged_unplugged_summary">Пробуждение при подключении/отключении зарядного устройства</string>
