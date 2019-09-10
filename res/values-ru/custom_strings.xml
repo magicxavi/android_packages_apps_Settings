@@ -132,7 +132,7 @@
     <string name="animation7">Выход Honami Toast</string>
     <string name="animation8">Выдвижение вправо </string>
     <string name="animation9">Тост выход</string>
-    <string name="animation_duration_default">По умолчанию</string>
+    <string name="animation_duration_default">Умол.</string>
     <string name="animation_duration_title">Длительность анимации</string>
     <string name="animation_title">Анимации</string>
     <string name="aosp_first_time_message">Настройки полноэкранного меню недавних приложений будут изменены если включён полноэкранный режим.</string>
@@ -1434,7 +1434,7 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
     <string name="qs_show_brightness_buttons_title">Кнопки управления яркостью</string>
     <string name="qs_themes_category_title">Тема быстрых настроек</string>
     <string name="qs_tile_animation_category">Анимации плиток QS</string>
-    <string name="qs_tile_animation_duration_default">По умолчанию</string>
+    <string name="qs_tile_animation_duration_default">Умол.</string>
     <string name="qs_tile_animation_duration_fast">Длинная</string>
     <string name="qs_tile_animation_duration_low">Короткая</string>
     <string name="qs_tile_animation_duration_title">Длительность анимации плиток QS</string>
@@ -1532,9 +1532,9 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
     <string name="screen_off_animation_title">Анимация выключения экрана</string>
     <string name="screen_on_time">Экран включен</string>
     <string name="screen_record_shortcut">Запись экрана</string>
-    <string name="screen_record_shortcut_summary">Начать запись экрана при зажатии кнопки питания и кнопки повышения громкости</string>
+    <string name="screen_record_shortcut_summary">Начать запись экрана при зажатии кнопки питания и кнопки повышения громкости. При отключении функция не работает во всей системе.</string>
     <string name="screen_shot_shortcut">Скриншот</string>
-    <string name="screen_shot_shortcut_summary">Сделать скриншот при зажатии кнопки питания и кнопки понижения громкости</string>
+    <string name="screen_shot_shortcut_summary">Сделать скриншот при зажатии кнопки питания и кнопки понижения громкости. При отключении функция не работает во всей системе.</string>
     <string name="screen_stabilization_enable">Включить стабилизацию экрана</string>
     <string name="screen_stabilization_enable_summary">Оставьте значения ниже, как есть, если вы не понимаете, что они означают.</string>
     <string name="screen_stabilization_summary">Перемещать отображаемое содержимое, когда устройство находится в движении</string>
@@ -1558,7 +1558,7 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
     <string name="security_settings_fingerprint_sensor_location_front">спереди</string>
     <string name="security_settings_fingerprint_sensor_location_left">слева</string>
     <string name="security_settings_fingerprint_sensor_location_right">справа</string>
-    <string name="seekbar_default_string">По умолчанию</string>
+    <string name="seekbar_default_string">Умол.</string>
     <string name="seekbar_default_value_already_set">Уже установлено состояние по умолчанию</string>
     <string name="seekbar_default_value_set">Значение установить по умолчанию в %d</string>
     <string name="seekbar_no_default_value">Значение по умолчанию не установлено</string>
