@@ -64,9 +64,9 @@
     <string name="abc_font_family_menu_material">sans-serif</string>
     <string name="abc_font_family_subhead_material">sans-serif</string>
     <string name="about_title">Про LiquidRemix</string>
-    <string name="accent_picker_custom_colors">User requested</string>
+    <string name="accent_picker_custom_colors">От пользователей</string>
     <string name="accent_picker_dialog_title">Выберите цвет акцента</string>
-    <string name="accent_picker_material_colors">Material palette</string>
+    <string name="accent_picker_material_colors">Material палитра</string>
     <string name="action_cancel">Отмена</string>
     <string name="action_entry_custom_action">Выберите пользовательское действие</string>
     <string name="action_entry_default_action">Настройки по умолчанию</string>
@@ -1021,8 +1021,8 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
     <string name="intent_sender_data_label">Data:</string>
     <string name="invalid_icon_from_uri">Не удается загрузить изображения от контент-провайдера</string>
     <string name="ipaddr_label">IPaddr:</string>
-    <string name="kernel_wakelock_time">Вэйклоки ядра</string>
-    <string name="kernel_wakelocks">Вэйклоки ядра</string>
+    <string name="kernel_wakelock_time">*wakelocks* ядра</string>
+    <string name="kernel_wakelocks">*wakelocks* ядра</string>
     <string name="keyboard_ime_summury">Расширенные настройки IME</string>
     <string name="keyboard_ime_title">Настройки IME</string>
     <string name="keyboard_rotation_dialog">Эта функция заставляет автоповорот временно включаться, пока отображается клавиатура. Не имеет эффекта, когда автоповорот уже включен.</string>
@@ -1274,7 +1274,7 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
     <string name="pa_pie_gravity_title">Позиция</string>
     <string name="packagename_text">%1$s</string>
     <string name="panel_porn_title">Прозрачность</string>
-    <string name="partial_wakelocks">Частичные вэйклоки</string>
+    <string name="partial_wakelocks">Частичные *wakelocks*</string>
     <string name="picker_activities">Деятельность</string>
     <string name="pickup_sensor_title">Датчик поднятия</string>
     <string name="pickup_summary">Отображать уведомления при поднятии устройства</string>
@@ -1873,7 +1873,7 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
     <string name="use_bottom_gesture_title">Жесты OnePlus</string>
     <string name="use_old_mobiletype_summary">Стиль значка мобильной сети как в Oreo</string>
     <string name="use_old_mobiletype_title">Использовать старый стиль значка мобильной сети</string>
-    <string name="user_wakelock_time">Частичные вэйклоки</string>
+    <string name="user_wakelock_time">Частичные *wakelocks*</string>
     <string name="value_equals_default">Определить</string>
     <string name="vertical_down_swipe_title">Вертикальный свайп вниз</string>
     <string name="vertical_up_swipe_title">Вертикальный свайп вверх</string>
@@ -1918,8 +1918,8 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
     <string name="wakelock_blocker_reload">Обновить список</string>
     <string name="wakelock_blocker_save">Сохранить</string>
     <string name="wakelock_blocker_title">Блокировщик *wakelocks*</string>
-    <string name="wakelock_list_header">Доступные вэйклоки</string>
-    <string name="wakelock_time">Вэйклоки</string>
+    <string name="wakelock_list_header">Доступные *wakelocks*</string>
+    <string name="wakelock_time">*wakelocks*</string>
     <string name="wakeup_when_plugged_unplugged_summary">Пробуждение при подключении/отключении зарядного устройства</string>
     <string name="wakeup_when_plugged_unplugged_title">Пробуждение при зарядке</string>
     <string name="wallpaper_close_title">Анимация закрытия обоев</string>
