@@ -32,11 +32,8 @@
 <string name="tilt_sensor_title">Датчик наклона</string>
 <string name="pickup_sensor_title">Датчик поднятия</string>
 <string name="proximity_sensor_title">Датчик приближения</string>
-<string name="stock_recents_title" >Стандартный Стиль Недавних</string>
-<string name="statusbar_ticker" >Тикер</string>
 <string name="ls_clock">Часы</string>
 <string name="ls_weather">Погода</string>
-<string name="statusbar_traffic" >Сетевой траффик</string>
 <string name="statusbar_notifications">Уведомления</string>
 <string name="misc_screenshot">Захват экрана</string>
 <string name="ambient_play">Музыка</string>
@@ -2056,7 +2053,6 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
 <string name="vertical_down_swipe_title">Вертикальный свайп вниз</string>
 <string name="vertical_up_swipe_title">Вертикальный свайп вверх</string>
 <string name="volume_adjust_sounds_title">Звуки при регулировке громкости</string>
-<string name="volume_keys_control_ring_tone_summary">В выключенном состоянии управляет громкостью Медиа, а в включенном громкостью Звонка</string>
 <string name="volume_link_notification_title">Связать громкость уведомлений и рингтона</string>
 <string name="volume_steps_15">15</string>
 <string name="volume_steps_30">30</string>
@@ -2064,7 +2060,6 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
 <string name="volume_steps_5">5</string>
 <string name="volume_steps_60">60</string>
 <string name="volume_steps_7">7</string>
-<string name="wakeup_when_plugged_unplugged_summary">Пробуждение при подключении/отключении зарядного устройства</string>
 <string name="weather_unit_imperial">Градусы Фаренгейта</string>
 <string name="weather_unit_metric">Градусы Цельсия</string>
 <string name="wifi_api_test">Wi-Fi API</string>
