@@ -929,8 +929,8 @@
 <string name="lockscreen_hide_shortcuts_title">Ярлыки</string>
 <string name="lockscreen_hide_shortcuts_summary">Скрыть левый и правый ярлыки на экране блокировки</string>
 <!-- Hide Lockscreen indicator text -->
-<string name="hide_lockscreen_indicator_display_title">Дополнительная информация</string>
-<string name="hide_lockscreen_indicator_display_summary">Показать информацию о зарядке и подсказки для разблокировки</string>
+<string name="hide_lockscreen_indicator_display_title">Индикатор зарядки</string>
+<string name="hide_lockscreen_indicator_display_summary">Убрать информацию о зарядке и подсказки для разблокировки</string>
 <!-- Hide Lockscreen icon -->
 <string name="hide_lockscreen_icon_title">Значок блокировки</string>
 <string name="hide_lockscreen_icon_summary">Показывать значок блокировки внизу</string>
