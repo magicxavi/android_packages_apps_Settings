@@ -1906,6 +1906,11 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
 <string name="qstile_squircle_trim">Округлый квадрат (с вырезкой)</string>
 <string name="qstile_teardrop">Каплевидная</string>
 <string name="qstile_wavey">Волнистая</string>
+<string name="qstile_cosmos">Космос</string>
+<string name="qstile_dividedcircle">Разделенный круг</string>
+<string name="qstile_neon">Неоновый свет</string>
+<string name="qstile_oos">Oxygen OS</string>
+<string name="qstile_triangle">Треугольник</string>	
 <string name="radio_info_imsi_label">IMSI:</string>
 <string name="retract_anim_duration_title">Длительность втягивания</string>
 <string name="ringtone1_title">Рингтон - SIM 1</string>
