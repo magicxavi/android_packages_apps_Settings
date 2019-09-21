@@ -1908,7 +1908,7 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
 <string name="qstile_wavey">Волнистая</string>
 <string name="qstile_cosmos">Космос</string>
 <string name="qstile_dividedcircle">Разделенный круг</string>
-<string name="qstile_neon">Неоновый свет</string>
+<string name="qstile_pie">Pie</string>
 <string name="qstile_oos">Oxygen OS</string>
 <string name="qstile_triangle">Треугольник</string>	
 <string name="radio_info_imsi_label">IMSI:</string>
