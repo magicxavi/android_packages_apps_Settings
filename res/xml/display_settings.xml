@@ -81,10 +81,10 @@
         android:fragment="com.android.settings.display.ColorModePreferenceFragment"
         settings:keywords="@string/keywords_color_mode" />
 
-    <Preference
+ <!--   <Preference
 	    android:key="screen_stabilization"
 	    android:title="@string/screen_stabilization_title"
-	    android:fragment="com.android.settings.custom.ScreenStabilization" />
+	    android:fragment="com.android.settings.custom.ScreenStabilization" /> -->
 
     <SwitchPreference
         android:key="show_operator_name"
