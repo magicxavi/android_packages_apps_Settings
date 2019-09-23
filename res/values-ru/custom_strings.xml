@@ -3,7 +3,7 @@
 <string name="app_settings_title">Настройки LiquidRemix</string>
 
 <!-- Title strings -->
-<string name="about_title">Про LiquidRemix</string>
+<string name="about_title">О LiquidRemix</string>
 <string name="ambient_title">Ambient Display</string>
 <string name="animation_title">Анимации</string>
 <string name="button_title">Кнопки</string>
@@ -1098,11 +1098,11 @@
 <string name="share_liquid_summary">Рассказать про LiquidRemix</string>
 <string name="share_message">Все о #LiquidRemix</string>
 <string name="share_chooser_title">Поделись #LiquidRemix</string>
+<string name="liquid_paypal_title">Донат для @Magicxavi</string>
+<string name="liquid_paypal_summary">Купи мне чашку кофе, если тебе нравится моя работа.</string>
 <string name="liquid_source_title">GitHub</string>
-<string name="liquid_source_summary">We love open source, check us out</string>
-<string name="liquid_google_plus_title">Google+</string>
-<string name="liquid_google_plus_summary">Join us on G+ for quick updates and support</string>
-<string name="liquid_telegram_title">Liquid Remix Telegram</string>
+<string name="liquid_source_summary">Мы любим открытый исходный код, посмотри на него</string>
+<string name="liquid_telegram_title">Telegram @Magicxavi</string>
 <string name="liquid_telegram_summary">Тапни чтобы перейти в telegram chat!</string>
 <string name="maintainers">Мейнтейнеры</string>
 <string name="maintainers_liquid_title">Устройства и мейнтейнеры</string>
