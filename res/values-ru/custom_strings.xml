@@ -138,7 +138,7 @@
 <string name="lockscreen_battery_info_title">Информация о зарядке</string>
 <string name="lockscreen_battery_info_summary">Отображать максимальное значение зарядки, напряжение и температуру при зарядке</string>
 <!-- Incall vibrate options -->
-<string name="incall_vibration_category">Вибрация при вызова</string>
+<string name="incall_vibration_category">Вибрация при вызове</string>
 <string name="incall_vibrate_connect_title">Вибрировать при подключении</string>
 <string name="incall_vibrate_call_wait_title">Вибрировать при ожидании звонка</string>
 <string name="incall_vibrate_disconnect_title">Вибрировать при отключении</string>
