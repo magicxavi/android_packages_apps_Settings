@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string name="app_settings_title">Настройки LiquidRemix</string>
-
-<!-- Title strings -->
-<string name="about_title">О LiquidRemix</string>
-<string name="ambient_title">Ambient Display</string>
-<string name="animation_title">Анимации</string>
-<string name="button_title">Кнопки</string>
-<string name="device_title">Устройство</string>
-<string name="gesture_title">Жесты</string>
-<string name="gesture_liquid">AOSP жесты</string>
-<string name="keyboard_title">Ввод</string>
-<string name="lockscreen_title">Экран блокировки</string>
-<string name="misc_title">Прочее</string>
-<string name="navigation_title">Навигация</string>
-<string name="notifications_title">Уведомления</string>
-<string name="powermenu_title">Меню выключения</string>
-<string name="quicksettings_title">Быстрые настройки</string>
-<string name="recents_title">Недавние</string>
-<string name="statusbar_title">Строка состояния</string>
-<string name="volume_title">Управление громкостью</string>
 <!-- Category strings -->
 <string name="clock_title">Часы</string>
 <string name="date_title">Дата</string>
@@ -2125,4 +2106,23 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
 <string name="zen_onboarding_screen_off_title">Блокировать с выключенным экраном</string>
 <string name="zen_onboarding_screen_on_summary">"Не показывать уведомления вообще, за исключением базовой телефонной активности"</string>
 <string name="zen_onboarding_screen_on_title">Блокировать с включенным экраном</string>
+	
+	<!-- Title strings -->
+<string name="about_title">О LiquidRemix</string>
+<string name="ambient_title">Ambient Display</string>
+<string name="animation_title">Анимации</string>
+<string name="button_title">Кнопки</string>
+<string name="device_title">Устройство</string>
+<string name="gesture_title">Жесты</string>
+<string name="gesture_liquid">AOSP жесты</string>
+<string name="keyboard_title">Ввод</string>
+<string name="lockscreen_title">Экран блокировки</string>
+<string name="misc_title">Прочее</string>
+<string name="navigation_title">Навигация</string>
+<string name="notifications_title">Уведомления</string>
+<string name="powermenu_title">Меню выключения</string>
+<string name="quicksettings_title">Быстрые настройки</string>
+<string name="recents_title">Недавние</string>
+<string name="statusbar_title">Строка состояния</string>
+<string name="volume_title">Управление громкостью</string>
 </resources>
