@@ -481,7 +481,7 @@
 <string name="summary_animation_no_override">Предотвратить переопределение переходов приложением</string>
 <string name="animation_duration_default">Умол.</string>
 <string name="disable_transition_animations_title">Анимации перехода</string>
-<string name="disable_transition_animations_summary">Включить все системные анимации</string>
+<string name="disable_transition_animations_summary">Выключить все системные анимации</string>
 <!-- Listview animation -->
 <string name="listview_animation_title">Анимация списка</string>
 <string name="listview_off">По умолчанию</string>
@@ -507,7 +507,7 @@
 <!-- Option to enable/disable scrolling cache -->
 <string name="pref_scrollingcache_title">Кэш прокрутки</string>
 <string name="pref_scrollingcache_summary">Кэш может улучшить производительность прокрутки за счет дополнительного использования ОЗУ</string>
-<string name="pref_scrollingcache_force_enable">Включить (принудительно)</string>
+<string name="pref_scrollingcache_force_enable">Включить (Принудительно)</string>
 <string name="pref_scrollingcache_default_enable">Включить</string>
 <string name="pref_scrollingcache_default_disable">Отключить</string>
 <string name="pref_scrollingcache_force_disable">Отключить (Принудительно)</string>
@@ -1121,7 +1121,7 @@
 <string name="color_preview_start">Старт</string>
 <string name="color_preview_end">Конец</string>
 <string name="color_preview_between">Между</string>
-<string name="battery_light_blend_category">Blend colors</string>
+<string name="battery_light_blend_category">Мигать при низком уровне заряда</string>
 <string name="battery_light_blend_title">Смешать цвета</string>
 <string name="battery_light_blend_summary">Постепенно изменять цвета от полного и пустого</string>
 <string name="battery_light_blend_colors_title">Выбор цвета</string>
@@ -1797,7 +1797,7 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
 <string name="notification_dark">Темный</string>
 <string name="notification_header_divider_symbol_with_spaces">" • "</string>
 <string name="notification_importance_divider">%1$s: %2$s</string>
-<string name="notification_light">Свечение</string>
+<string name="notification_light">Светлый</string>
 <string name="notification_sound_battery_charge_summary">Воспроизвести звук, когда заряд батареи достигает определённого уровня</string>
 <string name="notification_sound_battery_charge_title">Оповещение об уровне заряда</string>
 <string name="notification_style_title">Цвет уведомлений</string>
