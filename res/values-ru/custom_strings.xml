@@ -49,7 +49,6 @@
 <string name="seekbar_default_string">Умол.</string>
 <!-- Power menu -->
 <string name="powermenu_screenshot">Снимок экрана</string>
-<string name="powermenu_screenrecord">Запись экрана</string>
 <string name="powermenu_power">Выключение</string>
 <string name="powermenu_restart">Перезагрузка</string>
 <string name="powermenu_restart_recovery">Расширенная перезагрузка</string>
@@ -1110,10 +1109,6 @@
 <string name="battery_blend_start">Пустой</string>
 <string name="battery_blend_end">Полная</string>
 <string name="battery_blend_between">Между</string>
-<string name="screenrecord_quality_title">Качество записи экрана</string>
-<string name="screenrecord_quality_low">Низкое</string>
-<string name="screenrecord_quality_medium">Среднее</string>
-<string name="screenrecord_quality_high">Высокое</string>
 <string name="usb_default_config_title">Настройки USB</string>
 <string name="usb_default_config_summary">Выберите поведение по умолчанию при подключении к устройству через USB</string>
 <string name="force_ambient_for_media_title">Текущий трек</string>
@@ -2125,4 +2120,8 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
 <string name="recents_title">Недавние</string>
 <string name="statusbar_title">Строка состояния</string>
 <string name="volume_title">Управление громкостью</string>
+	
+    <!-- Charging animation -->
+    <string name="charging_animation_title">Анимация зарядки</string>
+    <string name="charging_animation_summary">Отображать анимацию зарядки при подключении</string>
 </resources>
