@@ -124,7 +124,7 @@
 <string name="incall_vibrate_disconnect_title">Вибрировать при отключении</string>
 <string name="incall_notifications_vibrate">Вибрировать при уведомлении</string>
 <!-- Recents panel settings -->
-<string name="show_clear_all_recents_button_title">Очистить все кнопки</string>
+<string name="show_clear_all_recents_button_title">Очистить все</string>
 <string name="show_clear_all_recents_button_summary">Показывать кнопку "Очистить все" в недавних</string>
 <string name="recents_clear_all_location_title">Положение кнопки "Очистить все"</string>
 <string name="recents_clear_all_location_top_right">Вверху справа</string>
@@ -1589,8 +1589,8 @@ Maintainer - Kyryll Bondarenko (Magicxavi)"</string>
 <string name="dot_custom_color">Кастомный</string>
 <string name="dot_left_color_title">Левая точка</string>
 <string name="dot_obey_themes">По умолчанию (Цвет темы)</string>
-<string name="dot_random_color">Рандомный</string>
-<string name="dot_random_color_more">Очень рандомный</string>
+<string name="dot_random_color">Случайный</string>
+<string name="dot_random_color_more">Много случайных</string>
 <string name="dot_right_color_title">Правая точка</string>
 <string name="dot_top_color_title">Верхняя точка</string>
 <string name="dots_anim_duration_title">Длительность точек</string>
