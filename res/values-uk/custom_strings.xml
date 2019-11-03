@@ -914,7 +914,7 @@
 <string name="hide_lockscreen_indicator_display_summary">Прибрати інформацію про зарядку і підказки для розблокування</string>
 <!-- Hide Lockscreen icon -->
 <string name="hide_lockscreen_icon_title">Значок блокування</string>
-<string name="hide_lockscreen_icon_summary">Показувати значок блокування внизу</string>
+<string name="hide_lockscreen_icon_summary">Прибрати значок блокування внизу</string>
 <!-- Toast icon -->
 <string name="toast_icon_title">Значок Tost-повідомлення</string>
 <string name="toast_icon_summary">Відображати значок активності, що генерує тост-повідомлення</string>
